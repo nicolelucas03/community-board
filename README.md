@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/06627a51192947d8ac759efb3568c89d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://www.loom.com/share/06627a51192947d8ac759efb3568c89d)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -43,7 +43,7 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-[Loom] (https://loom.com/) for Windows 
+[Loom](https://loom.com/) for Windows 
 ## Notes
 
 - Learning Points: Learned how to use a grid and display it in formatted way
