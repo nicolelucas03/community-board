@@ -1,4 +1,3 @@
-/* App container - wrap the app so child layout (like the grid) can expand */
 .App {
   max-width: 1280px;
   margin: 0 auto;
